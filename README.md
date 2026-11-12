@@ -15,7 +15,8 @@ class Arciom:
     location   = "Minsk, BY"
     team       = "Индийская техподдержка"   # "Indian Tech Support". Yes, really.
     builds     = ["LLM agent harnesses", "budget schedulers", "sandboxes for untrusted code"]
-    also_does  = ["CAD drawings at 2 a.m.", "lab reports at 3 a.m."]
+    speaks     = ["Python", "TypeScript", "C++", "Java + Spring Boot"]
+    also_does  = ["lab reports at 3 a.m."]
     debugging  = "print() first, think later"
 
     def daily_routine(self):
@@ -34,11 +35,14 @@ class Arciom:
 ### 🧰 Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LLM agents](https://img.shields.io/badge/LLM%20agents-6E56CF?style=for-the-badge)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 📊 Numbers nobody asked for
 
